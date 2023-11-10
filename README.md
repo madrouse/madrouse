@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello!
 
-<!--
-**madrouse/madrouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After graduating with my M.S. in Spatial Sciences from the University of Southern California, I started my career in GIS Analysis and Cartography.
 
-Here are some ideas to get you started:
+With a background in GIS, map design, psycholinguistics, and dance, I strive to combine my interdisciplinary knowledge to create beautiful, simple, informative, and accessible maps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am based in Seattle and am especially passionate about natural resources, environmental phenomena, and outdoor recreation.
+
+Thanks for stopping by,
+
+Madeline Rouse
+
+<img src="https://github.com/madrouse/madrouse/assets/102773482/7ffa74e2-446c-4006-bb70-dd481eb457dc" width="200" />
+
