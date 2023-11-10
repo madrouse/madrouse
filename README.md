@@ -12,7 +12,7 @@ Madeline Rouse
 
 <img src="https://github.com/madrouse/madrouse/assets/102773482/7ffa74e2-446c-4006-bb70-dd481eb457dc" width="200" />
 
-~
+-----
 
 ⬇⬇⬇ Check out my work here: ⬇⬇⬇
 
